@@ -20,7 +20,7 @@ WGAN-DCGAN-Abstarct-Art-Gallery
 
 ## Results
   ### DCGAN-added-noise
-![DCGAN-added-noise](/added noise.png "added noise")
+![DCGAN-added-noise](/added-noise.png "added noise")
   
   ### WGAN
 ![WGAN](/WGAN.png "Home Page")
