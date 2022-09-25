@@ -8,11 +8,11 @@ WGAN-DCGAN-Abstarct-Art-Gallery
 
 - [Dataset](https://www.kaggle.com/datasets/bryanb/abstract-art-gallery/ "Dataset")
 
-- [Tensorflow-DCGAN-tutorial]([<Homepage url>](https://www.tensorflow.org/tutorials/generative/dcgan) "Tensorflow-DCGAN-tutorial")
+- [Tensorflow-DCGAN-tutorial](https://www.tensorflow.org/tutorials/generative/dcgan) "Tensorflow-DCGAN-tutorial")
   
-- [WGAN-GP-Keras]([<Homepage url>](https://keras.io/examples/generative/wgan_gp/ "WGAN-GP-Keras")
+- [WGAN-GP-Keras](https://keras.io/examples/generative/wgan_gp/ "WGAN-GP-Keras")
   
-- [Wasserstein-Loss]([<Homepage url>](https://keras.io/examples/generative/wgan_gp/ "WGAN-GP-Keras")
+- [Wasserstein-Loss](https://keras.io/examples/generative/wgan_gp/ "WGAN-GP-Keras")
    
 
 ## Screenshots
