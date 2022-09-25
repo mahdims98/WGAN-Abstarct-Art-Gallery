@@ -1,18 +1,19 @@
 
 
 <h1 align="center"><project-name></h1>
-WGAN-Abstarct-Art-Gallery
+WGAN-DCGAN-Abstarct-Art-Gallery
 <p align="center"><project-description></p>
 
 ## Links
 
 - [Dataset](https://www.kaggle.com/datasets/bryanb/abstract-art-gallery/ "Dataset")
 
-- [Live](<Homepage url> "Live View")
-
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
-
-- [API](<API Link> "API")
+- [Tensorflow-DCGAN-tutorial]([<Homepage url>](https://www.tensorflow.org/tutorials/generative/dcgan) "Tensorflow-DCGAN-tutorial")
+  
+- [WGAN-GP-Keras]([<Homepage url>](https://keras.io/examples/generative/wgan_gp/ "WGAN-GP-Keras")
+  
+- [Wasserstein-Loss]([<Homepage url>](https://keras.io/examples/generative/wgan_gp/ "WGAN-GP-Keras")
+   
 
 ## Screenshots
 
