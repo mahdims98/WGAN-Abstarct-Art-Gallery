@@ -1,12 +1,12 @@
-# WGAN-Abstarct-Art-Gallery
+
 
 <h1 align="center"><project-name></h1>
-
+WGAN-Abstarct-Art-Gallery
 <p align="center"><project-description></p>
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Dataset](https://www.kaggle.com/datasets/bryanb/abstract-art-gallery/<project-name> "<project-name> Repo")
 
 - [Live](<Homepage url> "Live View")
 
@@ -37,6 +37,11 @@ Builds the app for production to the `build` folder. It correctly bundles React 
 
 ### `"npm run test": "react-scripts test"`,
 
+Launches the test runner in the interactive watch mode.
+
+### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
+
+For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
 
 ### `"serve": "node server"`
 
