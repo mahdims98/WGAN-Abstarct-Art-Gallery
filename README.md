@@ -8,7 +8,7 @@ WGAN-DCGAN-Abstarct-Art-Gallery
 
 - [Dataset](https://www.kaggle.com/datasets/bryanb/abstract-art-gallery/ "Dataset")
 
-- [Tensorflow-DCGAN-tutorial](https://www.tensorflow.org/tutorials/generative/dcgan) "Tensorflow-DCGAN-tutorial")
+- [Tensorflow-DCGAN-tutorial](https://www.tensorflow.org/tutorials/generative/dcgan/ "Tensorflow-DCGAN-tutorial")
   
 - [WGAN-GP-Keras](https://keras.io/examples/generative/wgan_gp/ "WGAN-GP-Keras")
   
