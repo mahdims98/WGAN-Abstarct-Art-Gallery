@@ -2,6 +2,9 @@
 
 <h1 align="center"><project-name></h1>
 WGAN-DCGAN-Abstarct-Art-Gallery
+  
+  Implemented three different types of DCGAN on Abstract Art Gallery Dataset
+  Google Colab was used to train the models. Another file is attached on how to download the dataset from Kaggle to google drive
 <p align="center"><project-description></p>
 
 ## Useful Links
@@ -17,7 +20,7 @@ WGAN-DCGAN-Abstarct-Art-Gallery
 
 ## Results
   ### DCGAN-added-noise
-![DCGAN-added-noise](/added noise.png "added noise)
+![DCGAN-added-noise](/added noise.png "added noise")
   
   ### WGAN
 ![WGAN](/WGAN.png "Home Page")
