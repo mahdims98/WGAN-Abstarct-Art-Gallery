@@ -1,9 +1,8 @@
 
 
-<h1 align="center"><project-name></h1>
-WGAN-DCGAN-Abstarct-Art-Gallery
+
+## WGAN-DCGAN-Abstarct-Art-Gallery
   
-<p align="center"><project-description></p>
   
   Implemented three different types of DCGAN on Abstract Art Gallery Dataset
   Google Colab was used to train the models. Another file is attached on how to download the dataset from Kaggle to google drive
