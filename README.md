@@ -6,7 +6,7 @@ WGAN-Abstarct-Art-Gallery
 
 ## Links
 
-- [Dataset](https://www.kaggle.com/datasets/bryanb/abstract-art-gallery </project-name> "Dataset")
+- [Dataset](https://www.kaggle.com/datasets/bryanb/abstract-art-gallery/ "Dataset")
 
 - [Live](<Homepage url> "Live View")
 
