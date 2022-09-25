@@ -15,11 +15,14 @@ WGAN-DCGAN-Abstarct-Art-Gallery
 - [Wasserstein-Loss](https://keras.io/examples/generative/wgan_gp/ "WGAN-GP-Keras")
    
 
-## Screenshots
-![DCGAN-added-noise](/added noise.png)
+## Results
+  ### DCGAN-added-noise
+![DCGAN-added-noise](/added noise.png "added noise)
   
+  ### WGAN
 ![WGAN](/WGAN.png "Home Page")
 
+  ### WGAN-GP
 ![WGAN-GP](/Wgan-GP.png)
 
 
