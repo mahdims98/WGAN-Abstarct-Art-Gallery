@@ -4,8 +4,9 @@
 ## WGAN-DCGAN-Abstarct-Art-Gallery
   
   
-  Implemented three different types of DCGAN on Abstract Art Gallery Dataset
-  Google Colab was used to train the models. Another file is attached on how to download the dataset from Kaggle to google drive
+- Implemented three different types of DCGAN on Abstract Art Gallery Dataset
+  
+- Google Colab was used to train the models. A file is attached on how to download the dataset from Kaggle to google drive
 
 ## Useful Links
 
